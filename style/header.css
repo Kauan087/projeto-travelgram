@@ -8,7 +8,13 @@ header{
     gap: 32px;
     
 }
+profile img{
+    height: 176px;
+    width: 176px;
+    object-fit: cover;
+    border-radius: 50%;
 
+}
 .container{
     display: flex;
     justify-content: space-between;
